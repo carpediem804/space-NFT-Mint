@@ -4,11 +4,16 @@
 
 ## PROJECT
 - next.js
+- app router 
 - typescript
 - styled-components
 - 3d  : three
 - web3
 - web3-eth-contract
+
+## Contract
+- this project is using hardhat localhost network
+- so if you want to change contract address , abi change the src/app/hooks/usePlanetContract.ts 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Getting Started
